@@ -12,8 +12,8 @@ This project is a C# client application that communicates with the ABX Mock Exch
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/abx-exchange-client.git
-   cd abx-exchange-client
+   git clone https://github.com/AKSHAY89350/ABX_Mock_Exchanges.git
+   cd ABX_Mock_Exchange
    ```
 
 2. **Start the ABX Exchange Server:**
